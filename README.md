@@ -9,6 +9,6 @@ Tela feita para fins de treinamento, a barra de pesquisa ainda não é funcional
 + Ion Icons
 + Figma
   
-## Layout
+## Layout 🔖
 
 É possivel acessar o layout do projeto através <a href="https://www.figma.com/design/fLpiKZaNemQ48URv4JUq7e/P%C3%A1gina-de-Contatos-%E2%80%A2-Desafio-16-(Community)?node-id=0-1&node-type=canvas&t=46U9sosCr19BEXup-0">DESSE LINK </a>
