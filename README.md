@@ -4,7 +4,7 @@
 
 Tela feita para fins de treinamento, a barra de pesquisa ainda não é funcional pois o projeto não está finalizado ⚠️
 
-##Ferramentas 🛠️
+## Ferramentas 🛠️
 + HTML
 + CSS
 + JS
